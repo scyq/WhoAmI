@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>scyq's artstation</title>
+        <title>scyq artstation</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.mainTitle}>scyq's artstation</h1>
+        <h1 className={styles.mainTitle}>scyq artstation</h1>
 
         <Link href="/resume/resume">
           <a>Resume</a>
