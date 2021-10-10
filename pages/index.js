@@ -28,7 +28,8 @@ export default function Home() {
         <p>
           If you speak Mandarin, my Chinese name is 陈宇卿 and you can also find
           me on{" "}
-          <a href="https://www.zhihu.com/people/chen-yu-qing-43-88">知乎</a>.
+          <a href="https://www.zhihu.com/people/chen-yu-qing-43-88">知乎</a> and{" "}
+          <a href="https://space.bilibili.com/336229943">Bilibili</a>.
         </p>
         <p>This website is under construction.</p>
       </section>
